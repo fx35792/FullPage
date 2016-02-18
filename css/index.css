@@ -1,0 +1,46 @@
+﻿/**content**/
+.main{position: relative;}
+.m-part1{background: url(../images/part1.png) no-repeat center 0;width: 100%;height: 730px;overflow: hidden;margin-top: 70px; }
+
+.m-part3{width: 100%;background: #f0f0f0;height: 730px;position: relative;top:50%;margin-top:-150px;}
+.m-part3 h2{font-size: 28px;color: #333;text-align: center;}
+.m-part3 p{line-height: 28px;}
+.m-part3 p.p1{color: #333;font-size: 16px;padding-top: 80px;padding-bottom: 30px;}
+.m-part3 p.p2{color: #d26d57;font-size: 16px;padding-top: 50px;font-weight: bold;}
+.m-part3 img{position: absolute;text-align: center;bottom: 0px;left: 50%;margin-left: -44px;}
+
+.m-part4{width: 100%;top: 50%;margin-top: -220px;height: 735px;position: relative;}
+.m-part4 h2{text-align: center;height: 50px;line-height: 50px;font-size: 28px;color: #d26d57;}
+.m-part4-bg{background: url(../images/part4.png) no-repeat center 0;width: 100%;height: 580px;overflow: hidden;}
+.show_step{margin-top: 112px;position: relative;margin-left: -2px;}
+.show_step .pub{width:240px;height: 178px;text-align: center;display: inline-block;float: left;}
+.show_step .step{background: url(../images/part4-ico1.png) no-repeat;font-size: 28px;line-height: 178px;color: #fff;text-shadow: 0 0 2px #0E0303;cursor: pointer;}
+.show_step .step-c{background: url(../images/part4-ico3.png) no-repeat;}
+.stepshow{position: absolute;background: url(../images/part4-ico2.png) no-repeat;font-size: 24px;color: #fff;height: 178px;
+width: 240px;text-align: center;display: none;}
+.stepshow span{padding-top: 58px;display: block;line-height: 30px;}
+.step1-1{left: 0;top: 178px;}
+.step1-2{left: 240px;}
+.step1-3{left: 480px;top: 178px;}
+.step1-4{left: 720px;}
+.step1-5{left: 960px;top: 178px;}
+
+.m-part5{width: 100%;background: #f0f0f0;height: 730px;position: relative;top: 50%;margin-top: -150px;}
+.m-part5-c{}
+.m-part5-c .part{width: 397px;height: 200px;padding-left: 140px;}
+.m-part5-c .part h2{height: 56px;line-height: 56px;color: #fff;font-size: 24px;}
+.m-part5-c .part p{width: 385px;color: #333;font-size: 16px;line-height: 35px;margin-top: 10px;text-align: justify;}
+.m-part5-c .part1{background: url(../images/part5-step1.png) no-repeat;}
+.m-part5-c .part2{background: url(../images/part5-step2.png) no-repeat;}
+.m-part5-c .part3{background: url(../images/part5-step3.png) no-repeat;}
+.m-part5-c .part4{background: url(../images/part5-step4.png) no-repeat;}
+
+
+
+
+
+
+
+
+
+

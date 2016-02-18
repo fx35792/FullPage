@@ -1,0 +1,72 @@
+@charset "utf-8";
+/**header**/
+.header{height: 70px;line-height: 70px;padding: 0 2%;position: fixed;z-index: 999;left: 0;top: 0;background: #fff;width: 96%;border-bottom: 1px solid #ccc;}
+.header .logo img{margin-right: 30px;display: inline-block;vertical-align: middle;}
+.header .logo span{display: inline-block;font-size: 16px;color: #7e7e7e;position: relative;top: 11px;}
+
+.header .nav a{color: #666;font-size: 16px;margin-left:28px;border-bottom: 2px solid #fff;padding-bottom: 5px;}
+.header .nav a:hover{border-bottom: 2px solid #D26D57;}
+.header .nav a.current{border-bottom: 2px solid #D26D57;}
+
+/**content**/
+.main{position: relative;}
+.m-part2{height: 735px;width: 100%;background: #fff;position: relative;top:50%;margin-top:-150px;}
+.m-part2 img{vertical-align: middle;display: inline-block;}
+
+
+.m-part2 .brief{width: 670px;font-size: 16px;color: #59493f;}
+.m-part2 .brief h2{font-size: 28px;color: #b22130;}
+.m-part2 .brief p{line-height: 28px;text-align: justify;}
+.m-part2 .brief p.p1{margin-top:80px;margin-bottom: 30px;}
+
+.m-part6{width: 100%;background: #fff;height: 730px;position: relative;top: 50%;margin-top: -200px;}
+.m-part6 h2{height: 100px;line-height: 100px;font-size: 28px;color: #d26d57;text-align: center;}
+.m-part6-l p{font-size: 16px;color: #7e7e7e;line-height: 25px;width:335px;}
+.m-part6-l .list{margin-top: 45px;font-size: 17px;color: #7e7e7e;}
+.m-part6-l .list ul{list-style: none;}
+.m-part6-l .list ul li{line-height: 35px;}
+.m-part6-l .list ul li span{margin-right: 35px;padding-left: 25px;display: inline-block;}
+.m-part6-l .list ul li em{font-style: italic;color: #7e7e7e;}
+
+.m-part6-l .list ul li span.ico1{background: url(../images/phone.png) 0 center no-repeat;}
+.m-part6-l .list ul li span.ico2{background: url(../images/address.png) 0 center no-repeat;}
+.m-part6-l .list ul li span.ico3{background: url(../images/email.png) 0 center no-repeat;}
+
+.m-part6-r .fir{}
+.m-part6-r .fir p{background: #f2f4f5;width: 280px;height: 55px;line-height: 55px;float: left;margin-left: 20px;border-radius: 3px;}
+.m-part6-r .fir p img{float: left;margin:17px 10px;}
+.m-part6-r .fir p input{height: 55px;line-height: 55px;float: left;font-size: 16px;color: #d26d57;width: 180px;border: none;background: #F2F4F5;}
+.m-part6-r .sec{margin-top: 20px;margin-left: 20px;position: relative;}
+.m-part6-r .sec textarea{width: 95%;background: #F2F4F5;border: none;border-top-left-radius: 3px;border-top-right-radius: 3px;height: 40px;text-indent: 10px;padding:2.5% ;font-size: 16px;color: #d26d57;}
+.m-part6-r .sec p{width: 100%;background: #F2F4F5;border-bottom-left-radius: 3px;border-bottom-right-radius: 3px;overflow: hidden;}
+.m-part6-r .sec p img{position: relative;right: 14px;float: right;margin-bottom: 14px;}
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {color:#d26d57;}
+input:-moz-placeholder, textarea:-moz-placeholder {color:#d26d57;}
+input::-moz-placeholder, textarea::-moz-placeholder {color:#d26d57;}
+input:-ms-input-placeholder, textarea:-ms-input-placeholder {color:#d26d57;}
+.m-part6-city{background: url(../images/city.png) no-repeat center 0;width: 100%;height: 181px;overflow: hidden;position: absolute;bottom: 0;}
+
+.m-part7{width: 100%;background: #fff;height: 100%;position: relative;}
+
+.m-part8{height: 70px;line-height: 70px;padding: 0 2%;background: #fff;width: 96%;}
+.m-part8 .logo img{margin-right: 30px;display: inline-block;vertical-align: middle;}
+.m-part8 .logo span{margin-left: 30px;display: inline-block;font-size: 16px;color: #7e7e7e;}
+
+/**main-nav**/
+.main-nav{position: fixed;top:50%;right: 120px;z-index: 999;margin-top: -129px;}
+.main-nav a{background: url(../images/circle2.png) no-repeat;width: 24px;height: 24px;display: block;margin-bottom: 10px;}
+.main-nav a.current{background: url(../images/circle.png) no-repeat;}
+
+/**backTop**/
+#returnBack{margin-top: -250px;z-index: 999999;position: relative;margin-right: 30px;}
+
+/**Arrow**/
+.top-arrow{position: absolute;text-align: center;bottom: 0px;left: 50%;margin-left: -44px;}
+
+
+
+.section{position: relative;position: relative;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;overflow: hidden;}
+#section0{text-align: center;display: table-cell; vertical-align:middle;}
+#section0 img{width: 100%;vertical-align: middle;}
+
+
